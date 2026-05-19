@@ -1,5 +1,0 @@
-# Documentation
-
-This folder contains public-safe documentation for the Agentic Sales Orchestrator reference implementation.
-
-Do not upload secrets, tenant-private data, real customer records, passwords, tokens, API keys, or confidential implementation details.
